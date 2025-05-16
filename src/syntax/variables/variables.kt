@@ -31,7 +31,7 @@ fun main(args: Array<String>) {
     food = "meat"
 
     // Saídas
-    println("Today I'll eat ${food} .")
+    println("Today I'll eat ${food}.")
     println("The value of PI is ${PI}")
     println(absolute)
 }
