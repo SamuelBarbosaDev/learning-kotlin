@@ -6,6 +6,7 @@ fun main(args: Array<String>){
     )
 
     martialArtist.description()
+    println("Índice: ${Status.STRENGTHENING_THE_BODY.ordinal}")
     println("Fortalecimento do corpo: ${Status.STRENGTHENING_THE_BODY}")
 }
 
