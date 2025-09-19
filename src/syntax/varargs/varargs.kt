@@ -1,5 +1,3 @@
-package com.agiotagemltda.collection.learning
-
 fun main(args: Array<String>){
     val phoneNumber = SavePhoneNumber(
         "(00) 00000-0000",
